@@ -80,6 +80,10 @@ javac -d bin src/main/java/banco/**/*.java
 java -cp bin banco.Main
 ```
 
+**Ou use os scripts fornecidos:**
+- `compile.bat` - Para compilar o projeto
+- `run.bat` - Para executar o programa
+
 ## 📊 Exemplos de Saída
 
 O programa demonstra:
@@ -100,6 +104,10 @@ Este projeto foi desenvolvido para fins didáticos, demonstrando:
 4. **Encapsulamento** e controle de acesso
 5. **Reutilização de código** através de herança
 6. **Flexibilidade** através de interfaces
+
+## 📚 Recursos Externos
+
+- **[Vídeo sobre Orientação a Objetos](https://youtu.be/4BvH7gWQre8)** - Conteúdo complementar sobre os conceitos de OO
 
 ## 🔧 Extensões Possíveis
 
